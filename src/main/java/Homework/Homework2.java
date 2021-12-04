@@ -7,8 +7,8 @@ public class Homework2 {
 
         long number = minus(12, 8);
         System.out.println(number);
-        long otherNumer = minus(11, 9);
-        System.out.println(otherNumer);
+        long otherNumber = minus(11, 9);
+        System.out.println(otherNumber);
         long yetAnotherNumber = minus(13, 5);
         System.out.println(yetAnotherNumber);
 
