@@ -19,7 +19,7 @@ import java.util.Map;
 //FindSurname - производит поиск фамилии по номеру телефона
 //FindNumberPhone - производит поиск списка номеров по фамилии
 
-public class Phonebook {
+public class PhoneBook {
     private static HashMap<String, String> pb = new HashMap<String, String>();
 
     //addPB - добавляет запись по заданным номеру телефона и фамилии
